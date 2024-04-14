@@ -10,3 +10,7 @@ Use the do files to simulate each individual component on ModelSim or the full C
 ## FPGA Version
 A 4-bit adaptation of the CPU and its components was created for the Nexys A7-100T.  
 Inputs and outputs were mapped to various switches, LEDs, and buttons using xdc files.
+
+##Block Diagram
+Block diagram of the CPU and its datapath
+![alt text](https://github.com/Bilal-yat/MIPSProcessor/blob/main/Block_Diagram.JPG)
