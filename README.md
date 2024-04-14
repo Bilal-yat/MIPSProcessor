@@ -8,4 +8,5 @@
 Use the do files to simulate each individual component on ModelSim or the full CPU.
 
 ## FPGA Version
-A 4-bit adaptation of the CPU and its components was created for the Nexys A7-100T. Inputs and outputs were mapped to various switches, LEDs, and buttons using xdc files.
+A 4-bit adaptation of the CPU and its components was created for the Nexys A7-100T. 
+Inputs and outputs were mapped to various switches, LEDs, and buttons using xdc files.
